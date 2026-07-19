@@ -122,3 +122,7 @@ Django backend with a production server (Gunicorn/Daphne behind Nginx) and `DEBU
 ---
 
 Built with Django REST Framework, React, and Tailwind CSS.
+
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/69df6e3e-0a24-4e78-b90b-8aa20f73a2ea" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/3f8f4ef0-1046-4e21-b7ce-e8db74e17f9f" />
+
